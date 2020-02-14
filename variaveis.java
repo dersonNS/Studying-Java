@@ -1,14 +1,12 @@
-package aula;
-
 public class variaveis {
 	
 	public static void main(String[] args){
 		
 		//1. Variaveis
 	 	int idade = 24;
-		System.out.println("Minha idade é "+idade);
+		System.out.println("Minha idade ï¿½ "+idade);
 		idade = 25;
-		System.out.println("Minha idade é "+idade);
+		System.out.println("Minha idade ï¿½ "+idade);
 		
 		//2.Tipos de variaveis
 		int num = 22;
